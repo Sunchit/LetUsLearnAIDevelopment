@@ -6,7 +6,7 @@ A learning hub for developers transitioning into AI development. Explore the lat
 
 - [Day 1 — Harness Engineering: The Shift from Prompting to AI 2.0](./docs/Day1_Harness_Engineering_AI_2_0.md)
 - [Day 2 — Agent Workflow and Harness Design](./docs/Day2_Agent_Workflow_And_Harness_Design.md)
-- [Day 3 — The Probabilistic Decision Engine: Why "Jeff" Is the Cheap, Fast AI Layer](./docs/Day3_Probabilistic_Decision_Engine_Jeff.md)
+- [Day 3 — It Is The Probabilistic Decision Engine: Why "Jeff" Is the Cheap, Fast AI Layer](./docs/Day3_Probabilistic_Decision_Engine_Jeff.md)
 
 ## Notes
 

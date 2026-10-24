@@ -1,4 +1,4 @@
-# Day 3 — The Probabilistic Decision Engine: Why "Jeff" Is the Cheap, Fast AI Layer
+# Day 3 — It Is The Probabilistic Decision Engine: Why "Jeff" Is the Cheap, Fast AI Layer
 
 ## Why this matters
 
